@@ -1,5 +1,5 @@
-# Animated-square
-A square that moves when you click start and stop when you click stop.
+//Animated-square
+//A square that moves when you click move and stop when you click stop
 <!DOCTYPE html>
 <html lang="en">
 <head>
